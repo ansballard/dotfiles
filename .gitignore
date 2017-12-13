@@ -1,0 +1,17 @@
+*
+
+!.gitignore
+!.vimrc
+!.gitconfig
+!.bashrc
+!.profile
+!.atom
+.atom/*
+!.atom/config.cson
+!.atom/init.coffee
+!.atom/keymap.cson
+!.atom/snippets.cson
+
+!precommit
+!init
+!apm-list.txt
