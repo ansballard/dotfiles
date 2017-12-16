@@ -17,6 +17,7 @@ set backspace=indent,eol,start
 
 " Theme Config
 
+colorscheme gruvbox
 set background=dark
 
 " Nerd Tree Config
