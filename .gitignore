@@ -2,6 +2,7 @@
 
 !.gitignore
 !.vimrc
+!.hyper.js
 !.gitconfig
 !.bashrc
 !.bash_profile
