@@ -8,7 +8,7 @@ call plug#begin()
   Plug 'xuyuanp/nerdtree-git-plugin'
   Plug 'scrooloose/syntastic'
   Plug 'prettier/vim-prettier', { 'do': 'npm install' }
-  Plug 'bling/vim-airline'
+  "Plug 'bling/vim-airline'
   Plug 'airblade/vim-gitgutter'
   Plug 'morhetz/gruvbox'
 call plug#end()
