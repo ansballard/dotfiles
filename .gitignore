@@ -13,6 +13,7 @@
 !.atom/keymap.cson
 !.atom/snippets.cson
 
-!precommit
-!init
-!apm-list.txt
+!dotfile-scripts
+!dotfile-scripts/*
+
+!vidtogif.sh
