@@ -12,6 +12,7 @@
 !.atom/init.coffee
 !.atom/keymap.cson
 !.atom/snippets.cson
+!kitty.conf
 
 !dotfile-scripts
 !dotfile-scripts/*
