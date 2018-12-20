@@ -1,20 +1,10 @@
 *
 
 !.gitignore
-!.vimrc
 !.hyper.js
 !.gitconfig
 !.bashrc
 !.bash_profile
-!.atom
-.atom/*
-!.atom/config.cson
-!.atom/init.coffee
-!.atom/keymap.cson
-!.atom/snippets.cson
-!kitty.conf
-
-!dotfile-scripts
-!dotfile-scripts/*
+!git-completion.bash
 
 !vidtogif.sh

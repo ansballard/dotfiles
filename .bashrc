@@ -9,4 +9,4 @@ alias where="echo \"it's which, stupid\" && which"
 
 # Git Autocompletion
 
-source ~/dotfile-scripts/git-completion.bash
+source ~/git-completion.bash
