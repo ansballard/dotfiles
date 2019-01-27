@@ -1,0 +1,6 @@
+*
+!.gitignore
+!lock.json
+!rc
+!rc/*
+!rc/*/*

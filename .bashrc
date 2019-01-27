@@ -9,4 +9,5 @@ alias where="echo \"it's which, stupid\" && which"
 
 # Git Autocompletion
 
-source ~/git-completion.bash
+source ~/completion/git.bash
+source ~/completion/volt.bash

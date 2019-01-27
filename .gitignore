@@ -5,6 +5,9 @@
 !.gitconfig
 !.bashrc
 !.bash_profile
-!git-completion.bash
+!completion
+!completion/*
+!volt
+!volt/*
 
 !vidtogif.sh
