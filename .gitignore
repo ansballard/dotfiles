@@ -7,5 +7,6 @@
 !.completion
 !.completion/*
 !.alacritty.yml
+!.tmux.conf
 !install.sh
 
