@@ -1,4 +1,8 @@
-PS1="\[\033[38;5;10m\]\w\[\e[0m\] @ \[\033[38;5;11m\]\h\[\e[0m\]\n\\$ "
+(test -d /workspaces/.codespaces) \
+  && ps1_delimitter="⛅" \
+  || ps1_delimitter="💻"
+
+PS1="\[\033[38;5;10m\]\w\[\e[0m\] $ps1_delimitter \[\033[38;5;11m\]\h\[\e[0m\]\n\\$ "
 
 # Aliases
 
