@@ -1,13 +1,11 @@
 *
 
 !.gitignore
-!.hyper.js
 !.gitconfig
 !.bashrc
 !.bash_profile
-!completion
-!completion/*
-!volt
-!volt/*
+!.completion
+!.completion/*
+!.alacritty.yml
+!install.sh
 
-!vidtogif.sh
