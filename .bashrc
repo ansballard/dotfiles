@@ -14,4 +14,8 @@ export NVM_DIR="$HOME/.nvm"
 
 # autocompletion scripts
 
-source ~/.completion/git.bash
+test -d /workspaces/.codespaces/.persistedshare/dotfiles &&
+  source /workspaces/.codespaces/.persistedshare/dotfiles/.completion/git.bash
+test -d ~/.completion &&
+  source ~/.completion/git.bash
+
