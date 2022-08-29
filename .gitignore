@@ -1,6 +1,7 @@
 *
 
 !.gitignore
+!.rgignore
 !.gitconfig
 !.bashrc
 !.bash_profile
