@@ -20,5 +20,5 @@ test -f /workspaces/.codespaces/.persistedshare/dotfiles/.tmux.conf &&
 if [ -d /workspaces/github ]; then
   git config --global core.excludesfile ~/.gitignore.global
   echo .rgignore > ~/.gitignore.global
-  cp $(pwd)/github_rgignore /workspaces/github/.rgignore
+  cp $(pwd)/.rgignore /workspaces/github/.rgignore
 fi
